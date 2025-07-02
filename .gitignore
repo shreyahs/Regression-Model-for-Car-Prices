@@ -1,0 +1,6 @@
+# Anaconda project metadata
+anaconda_projects/
+*.db
+
+# macOS system files
+.DS_Store
